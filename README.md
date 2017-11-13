@@ -1,0 +1,1 @@
+This is an express server that has all of the main functionality requirements includeing app.get, app.post, app.delete and http verbs such as app.put and app.patch. This server also uses Morgan as a logger and handles errors such as 404 and 500. 
